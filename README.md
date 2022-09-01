@@ -36,7 +36,7 @@ Topics which i am learning in this course are mentioned below.
 
 -------
 
-Please visit my <a href = "https://kishansutariya23.github.io/">portfolio</a> website to see my work 
+Please visit my <a href = "https://kishansutariya23.netlify.app/#home">portfolio</a> website to see my work 
 
 
 
